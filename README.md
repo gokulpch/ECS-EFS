@@ -1,9 +1,3 @@
-# ECS-EFS
-
-<p align="left">
-    <img src="https://i.imgur.com/YVmIHsN.png" alt="logo" width="200px">
-</p>
-
 # Connecting Elastic File System (EFS) with Elastic Container System (ECS) instnaces
 
 Amazon Elastic File System (Amazon EFS) provides simple, scalable file storage for use with Amazon EC2 instances. With Amazon EFS, storage capacity is elastic, growing and shrinking automatically as you add and remove files. Your applications can have the storage they need, when they need it.
